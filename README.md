@@ -1,3 +1,8 @@
+# Requirement
+
+* python-pretty-yaml
+* python-docker
+
 # docker-autocompose
 Generates a docker-compose yaml definition from a running container.
 
